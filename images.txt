@@ -1,2 +1,3 @@
 nginx
-minio
+minio/minio
+
