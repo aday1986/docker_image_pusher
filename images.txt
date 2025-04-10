@@ -1,3 +1,4 @@
 nginx
 minio/minio
 postgres
+cym1102/nginxwebui:latest
