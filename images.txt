@@ -2,3 +2,5 @@ nginx
 minio/minio
 postgres
 cym1102/nginxwebui:latest
+dushixiang/next-terminal:latest
+dushixiang/guacd:latest
