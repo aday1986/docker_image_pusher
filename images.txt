@@ -1,9 +1,11 @@
-nginx
-minio/minio
-postgres
+nginx:latest
+minio/minio:latest
+postgres:latest
 cym1102/nginxwebui:latest
 dushixiang/next-terminal:latest
 dushixiang/guacd:latest
 mysql:8.0
 mysql:latest
 portainer/portainer-ce:latest
+apkdv/siyuan-unlock:latest
+helloz/onenav:latest
