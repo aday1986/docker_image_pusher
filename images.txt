@@ -1,3 +1,4 @@
+docker.n8n.io/n8nio/n8n:latest
 nginx:latest
 minio/minio:latest
 postgres:latest
