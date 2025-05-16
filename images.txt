@@ -1,3 +1,4 @@
+ghcr.io/linuxserver/openvpn-as
 kylemanna/openvpn:latest
 docker.n8n.io/n8nio/n8n:latest
 nginx:latest
