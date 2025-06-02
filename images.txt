@@ -1,3 +1,4 @@
+dpage/pgadmin4
 mcr.microsoft.com/dotnet/aspnet:8.0.0
 konradkleine/docker-registry-frontend:v2
 registry:latest
@@ -10,7 +11,6 @@ postgres:latest
 cym1102/nginxwebui:latest
 dushixiang/next-terminal:latest
 dushixiang/guacd:latest
-mysql:8.0
 mysql:latest
 portainer/portainer-ce:latest
 apkdv/siyuan-unlock:latest
