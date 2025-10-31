@@ -9,6 +9,7 @@ nginx:latest
 minio/minio:latest
 postgres:latest
 cym1102/nginxwebui:latest
+cym1102/svnwebui:latest
 dushixiang/next-terminal:latest
 dushixiang/guacd:latest
 mysql:latest
