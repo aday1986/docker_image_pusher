@@ -16,3 +16,4 @@ mysql:latest
 portainer/portainer-ce:latest
 apkdv/siyuan-unlock:latest
 helloz/onenav:latest
+lscr.io/linuxserver/retroarch:latest
