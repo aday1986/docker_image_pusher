@@ -1,4 +1,3 @@
-discuz:latest
 dpage/pgadmin4
 mcr.microsoft.com/dotnet/aspnet:8.0.0
 konradkleine/docker-registry-frontend:v2
