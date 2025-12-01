@@ -16,4 +16,5 @@ mysql:latest
 portainer/portainer-ce:latest
 apkdv/siyuan-unlock:latest
 helloz/onenav:latest
-lscr.io/linuxserver/retroarch:latest
+ghcr.io/nodebb/nodebb:latest
+mongo:7-jammy
