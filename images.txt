@@ -1,3 +1,4 @@
+ghcr.io/volcengine/openviking:latest
 dpage/pgadmin4
 mcr.microsoft.com/dotnet/aspnet:8.0.0
 konradkleine/docker-registry-frontend:v2
@@ -15,6 +16,3 @@ dushixiang/guacd:latest
 mysql:latest
 portainer/portainer-ce:latest
 apkdv/siyuan-unlock:latest
-helloz/onenav:latest
-ghcr.io/nodebb/nodebb:latest
-mongo:7-jammy
