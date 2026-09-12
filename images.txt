@@ -1,6 +1,6 @@
 ghcr.io/volcengine/openviking:latest
 dpage/pgadmin4
-mcr.microsoft.com/dotnet/aspnet:8.0.0
+mcr.microsoft.com/dotnet/sdk:10.0
 konradkleine/docker-registry-frontend:v2
 registry:latest
 ghcr.io/linuxserver/openvpn-as
